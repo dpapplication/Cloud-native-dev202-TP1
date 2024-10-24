@@ -1,0 +1,14 @@
+{
+  "name": "api_joueurs",
+  "version": "1.0.0",
+  "description": "api pour les joueurs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ABBASSI OMAR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
